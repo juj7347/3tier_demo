@@ -1,4 +1,4 @@
-package tier_demo.demo;
+package tier.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
